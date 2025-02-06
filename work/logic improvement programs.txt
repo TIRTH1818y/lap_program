@@ -1,0 +1,127 @@
+Phase 1: Foundational Programming Concepts
+
+Chapter 2: Variables, Data Types, and Operators (Basic)
+
+Sum of Two Numbers
+Area and Perimeter of a Rectangle/Circle
+Celsius to Fahrenheit Conversion
+Simple Interest Calculation
+Largest of Two Numbers
+Even or Odd Number Check
+Check if a number is positive, negative, or zero
+String Concatenation and Length
+Character Case Conversion (Uppercase to Lowercase, etc.)
+Chapter 3: Control Flow (Basic/Intermediate)
+
+Pattern Printing (Nested Loops - Basic/Intermediate):
+Pyramid Patterns:
+Half Pyramid (right-angled triangle) of stars
+Inverted Half Pyramid of stars
+Full Pyramid of stars
+Pascal's Triangle
+Floyd's Triangle
+Other Patterns:
+Square of stars/numbers
+Hollow Square
+Diamond Pattern
+Number Patterns (e.g., 1, 12, 123, etc.)
+Character Patterns (e.g., A, AB, ABC, etc.)
+Number Patterns with specific logic (e.g., Palindrome numbers in a range)
+Other Control Flow Exercises:
+Factorial of a Number
+Multiplication Table (up to a given number)
+Prime Number Check
+Fibonacci Sequence (up to N terms)
+Reverse a String
+Palindrome Check
+Sum of Digits of a Number
+Count Vowels and Consonants in a String
+Armstrong Number Check
+Grade Calculator (based on score ranges)
+Leap Year Check
+Chapter 4: Functions (Basic/Intermediate)
+
+(Rewrite all exercises from Chapters 2 and 3, including the pattern printing exercises, using functions)
+Greatest Common Divisor (GCD)
+Least Common Multiple (LCM)
+Decimal to Binary Conversion
+Binary to Decimal Conversion
+Function to check if a number is perfect square
+Function to calculate the power of a number
+Function to check if a number is prime (more efficient version)
+Phase 2: Applying Logic and Introducing Data Structures (C++ Focus)
+
+Chapter 6: Basic Algorithms (Intermediate)
+
+Linear Search
+Binary Search (on a sorted array/vector)
+Bubble Sort
+Insertion Sort
+Selection Sort
+Chapter 8: Arrays and Strings in C++ (Intermediate)
+
+Find the Largest and Smallest Numbers in an Array/Vector
+Reverse an Array/Vector (in-place)
+Find Missing Number in an Array/Vector (assuming a specific range)
+Anagram Check (using std::string and potentially other data structures)
+Remove Duplicates from an Array/Vector
+Find K-th Largest Element in an Array/Vector
+Find Duplicate Elements in an Array/Vector
+Subsets of a Set (using arrays/vectors or bit manipulation)
+Rotate an array by k positions
+Chapter 9: Pointers in C++ (Intermediate)
+
+(Rewrite array/vector exercises from Chapter 8 using pointers)
+Dynamic Array/Vector Resizing
+String Manipulation with Pointers
+Passing arrays and strings to functions using pointers
+Chapter 10: Structures and Classes in C++ (Intermediate)
+
+Create a Matrix class with methods for matrix addition, subtraction, and multiplication.
+Create a Book class with members for title, author, ISBN, etc.
+Create a Student class with members for name, ID, grades, etc.
+Implement a simple "Library Management System" using classes to represent books and members.
+Chapter 11: Linked Lists (Intermediate/Advanced)
+
+Implement Singly Linked List operations (insertion, deletion, traversal, reversal).
+Implement Doubly Linked List operations.
+Implement a Stack and Queue using Linked Lists.
+Implement a function to detect a cycle in a linked list.
+Chapter 12: Stacks and Queues (Intermediate/Advanced)
+
+Implement a Stack using std::vector or a Linked List.
+Implement a Queue using std::vector or a Linked List.
+Expression Evaluation (Infix to Postfix conversion using Stacks).
+Breadth-First Search (BFS) on a simple graph (using Queues – requires graph introduction).
+Implement a queue using two stacks.
+Chapter 13: Trees (Introduction - Intermediate/Advanced)
+
+Implement Binary Tree operations (insertion, deletion, traversal).
+Implement a Binary Search Tree (BST).
+Tree Traversal Algorithms (Inorder, Preorder, Postorder) - Recursive and Iterative approaches.
+Check if two trees are identical.
+Find the height/depth of a tree.
+Phase 3: Advanced Topics and Projects
+
+Chapter 14: Advanced Algorithms and Data Structures (Advanced)
+
+Implement Heaps and Priority Queues.
+Implement Hash Tables/Maps (using std::unordered_map or std::map).
+Graph Algorithms (DFS, BFS, Dijkstra's Algorithm, Topological Sort).
+Advanced Sorting Algorithms (Merge Sort, Quicksort).
+Dynamic Programming Problems (Knapsack Problem, Longest Common Subsequence, Edit Distance).
+Implement a Trie (prefix tree).
+Chapter 16: Projects (Advanced)
+
+Tic-Tac-Toe Game
+To-Do List Application
+Basic Calculator (with more advanced features)
+Currency Converter
+Simple Chatbot
+File I/O Operations (reading/writing to files, working with CSV or JSON data)
+Sudoku Solver
+Simple Banking System
+Simple Blogging Platform
+Weather Application (API Integration)
+Library Management System (more advanced with file I/O)
+Inventory Management System
